@@ -1,50 +1,38 @@
 #EXTM3U
-
 # --- General ---
-#EXTINF:-1 tvg-id="AKTV.id" tvg-logo="https://i.imgur.com/DUY5WXf.png" group-title="General",AKTV (720p)
-https://e.siar.us/live/aktv.m3u8
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="TV Indonesia", RCTI ᴸᴼᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000143/1024.m3u8
 
-#EXTINF:-1 tvg-id="BaliTV.id" tvg-logo="https://i.imgur.com/sYd1QY0.png" group-title="General",Bali TV (720p)
-https://cdn.jkjk.link/live/balitv.m3u8
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="TV Indonesia", MNCTV World ᴸᴼᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000106/1024.m3u8
 
-#EXTINF:-1 tvg-id="JakTV.id" tvg-logo="https://i.imgur.com/ZwvVhC8.png" group-title="General",Jak TV (720p)
-https://cdn.jkjk.link/live/jaktv.m3u8
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="TV Indonesia", GTV ᴸᴼᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
 
-#EXTINF:-1 tvg-id="JTV.id" tvg-logo="https://i.imgur.com/fWODwC3.png" group-title="General",JTV (720p)
-https://cdn.jkjk.link/live/jtv.m3u8
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png" group-title="TV Indonesia", Trans 7 ᴸᴼᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
 
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://i.imgur.com/9QOa3HK.png" group-title="General",Kompas TV (720p)
-https://cdn.jkjk.link/live/kompastv.m3u8
 
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://i.imgur.com/xW7iQX6.png" group-title="General",Metro TV (720p)
-https://cdn.jkjk.link/live/metrotv.m3u8
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_87.png" group-title="TV Indonesia",Trans TV ᴸᴼᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
 
-#EXTINF:-1 tvg-id="NetTV.id" tvg-logo="https://i.imgur.com/3yX1lGh.png" group-title="General",NET. (720p)
-https://cdn.jkjk.link/live/nettv.m3u8
+#EXTINF:-1 tvg-id="tvOne.id" tvg-name="TVOne" tvg-logo="https://mncvision.id/userfiles/image/channel/tvone.png" group-title="TV Indonesia", TVOne ᴸᴼᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/1024.m3u8
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.imgur.com/4k4VxBP.png" group-title="General",RCTI (720p)
-https://cdn.jkjk.link/live/rcti.m3u8
+#EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV" tvg-logo="https://images.indihometv.com/assets/88_RTV_2025_03_17_14_55_38.png" group-title="TV Indonesia",RTV ᴸᴼᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000057/1024.m3u8
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/6V3xWDK.png" group-title="General",SCTV (720p)
-https://cdn.jkjk.link/live/sctv.m3u8
 
-#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://i.imgur.com/YoV3tQb.png" group-title="General",Trans TV (720p)
-https://cdn.jkjk.link/live/transtv.m3u8
-
-#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://i.imgur.com/0sLmxxt.png" group-title="General",Trans7 (720p)
-https://cdn.jkjk.link/live/trans7.m3u8
-
-#EXTINF:-1 tvg-id="TVOne.id" tvg-logo="https://i.imgur.com/r7w4HL8.png" group-title="General",TV One (720p)
-https://cdn.jkjk.link/live/tvone.m3u8
-
-#EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://i.imgur.com/vhGz5gR.png" group-title="General",ANTV (720p)
-https://cdn.jkjk.link/live/antv.m3u8
-
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://i.imgur.com/v5u6uYO.png" group-title="General",Indosiar (720p)
-https://cdn.jkjk.link/live/indosiar.m3u8
-
-#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://i.imgur.com/LjE4aCs.png" group-title="General",TVRI Nasional (720p)
-https://cdn.jkjk.link/live/tvri.m3u8
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_115.png" group-title="TV Indonesia",ANTV ᴸᴼᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
 
 # --- News ---
 #EXTINF:-1 tvg-id="BeritaSatu.id" tvg-logo="https://i.imgur.com/y3LZP8h.png" group-title="News",Berita Satu (720p)
