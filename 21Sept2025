@@ -158,6 +158,71 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 #EXTINF:-1 tvg-id="BiznetKids.id" tvg-logo="https://i.imgur.com/J5QNqJ0.png" group-title="TV Kids",Biznet Kids (480p)
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12fee297311f4bab91367d0e9c3a0a2f:656071dbdffbda440a6fde4fda56de21
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="CartoonNetwork.id" tvg-name="Cartoon Network" tvg-logo="https://iili.io/JmoBj8g.png" group-title="TV Kids", Cartoon Network 🟢
+https://atemeshield1-voe.sysln.id/live/eds/CartoonNetWHD/mpd/CartoonNetWHD.mpd
+https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="Cartoonito.id" tvg-name="Cartoonito" tvg-logo="https://www.transvision.co.id/img/channel/new/CARTOONITO.png" group-title="TV Kids", Cartoonito 🟢
+https://cdn4.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
+
+#EXTINF:-1 tvg-id="CBeebies.id" tvg-name="CBeebies HD" tvg-logo="https://mncvision.id/userfiles/image/channel/cbeebies_150.png" group-title="TV Kids", CBeebies ᴸᴼᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000006/1024.m3u8
+
+#EXTINF:-1 tvg-id="DreamWorks.id" tvg-name="Dreamworks HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_47.png" group-title="TV Kids", Dreamworks ᴸᴼᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
+
+#EXTINF:0 tvg-id="Moonbug.id" tvg-name="Moonbug" tvg-logo="https://iili.io/JmoB0wx.png" group-title="TV Kids", Moonbug
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#EXTINF:0 tvg-id="Moonbug.id" tvg-name="Moonbug" tvg-logo="https://iili.io/JmoB0wx.png" group-title="TV Kids", Moonbug ᴸᴼᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000125/1024.m3u8
+
+
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-id="MentariTV.id" tvg-name="Mentari TV" tvg-logo="https://warningfm.github.io/v3/img/WB2ot4t.png?v=1.1.1.1" group-title="TV Kids", Mentari TV
+https://why.biz.id/Iptv/oxygen.php?id=mentaritv&extension=m3u8&play
+
+
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv/
+#EXTINF:-1 tvg-id="MyKidz.id" tvg-name="My Kidz" tvg-logo="https://images.indihometv.com/logo_mykids_big.png" group-title="TV Kids", MyKidz ⚪
+https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&userid=lite&chname=My_Kidz_HD
+
+#EXTINF:-1 tvg-id="NickJr.id" tvg-name="Nick Jr." tvg-logo="https://mncvision.id/userfiles/image/channel/channel_37.jpg" group-title="TV Kids", Nick Jr.ᴸᴼᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000118/1024.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.id" tvg-name="Nickelodeon" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_49.png" group-title="TV Kids", Nickelodeon ᴸᴼᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000060/1024.m3u8
+
+#EXTINF:-1 tvg-id="ZooMoo.id" tvg-name="Zoomoo" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_39.png" group-title="TV Kids", Zoomoo ᴸᴼᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000151/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://warningfm.github.io/v3/img/sbt6Zwy.png?v=1.0.0.1" group-title="TV Kids",VTV 🟣
+https://why.biz.id/Iptv/oxygen.php?id=vtv&extension=m3u8&play
+https://flv.intechmedia.net/live/ch107.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/DeiKidsTv%20.png" group-title="TV Kids" ,DEI KIDS TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://e.siar.us/live/deikidstv.m3u8
+
+
+
 #EXTINF:-1 tvg-id="BiznetLifestyle.id" tvg-logo="https://i.imgur.com/XqUfQKA.png" group-title="Lifestyle",Biznet Lifestyle (480p)
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
 
