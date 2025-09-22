@@ -351,7 +351,7 @@ https://ott.udptv.xyz/stream/astro/showcasemovies/master.m3u8?u=cocked&p=dd0abb5
 #EXTINF:-1  tvg-name="IQIYI" tvg-id="iQIYI.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/iqiyi-my.png" group-title="TV Movies",IQIYI 🇲🇾
 https://ott.udptv.xyz/stream/astro/iqiyi/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 
-#EXTINF:-1 tvg-name=" tvg-id="" tvg-logo="" group-title="TV Movies",Star Movies Gold
+#EXTINF:-1 tvg-name="MOVIES GOLD" tvg-id="" tvg-logo="" group-title="TV Movies",Star Movies Gold
 https://moviethls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ac/12/66/ac1266e20b85c108287a81bca2c83298.jpg" tvg-id="CinemaWorld.id" group-title="TV Movies", CINEMA WORLD
