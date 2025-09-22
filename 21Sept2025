@@ -370,6 +370,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&amp;userid=wn
 #EXTINF:-1 tvg-id="Rock Action.Id" tvg-logo="https://i.pinimg.com/236x/0a/e3/53/0ae353e95a2c753cb335902437ec325a.jpg" group-title="TV Movies",ROCK ACTION
 http://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Action|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
+#EXTINF:-1 tvg-id="LingkarTV.id" tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="TV Movies",Lingkar TV
+https://lingkartv.my.id/hls/lingkartv.m3u8
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/4f/12/4f/4f124f053c4768d0dddd58d580ff6c84.jpg" group-title="TV Movies" tvg-id="KPlus.sg" tvg-name="K-Plus HD", KPLUS
 http://khano.nng.cloudns.us/live/m3u8/int/c19fce28bcd7cb7.m3u8
@@ -825,9 +828,6 @@ https://streamtawaf.asfatv.com/hls/tawaftv.m3u8
 
 #EXTINF:-1 tvg-id="RodjaTV.id" tvg-logo="https://i.imgur.com/XwCeHlC.png" group-title="TV Religious",Rodja TV (720p)
 https://rodjatv.com/rodjatv/live.m3u8
-
-#EXTINF:-1 tvg-id="LingkarTV.id" tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="Music;News;Religious",Lingkar TV
-https://lingkartv.my.id/hls/lingkartv.m3u8
 
 #EXTINF:-1 tvg-id="MGITV.id" tvg-logo="https://i.imgur.com/xrNtabe.png" group-title="TV Religious",MGI TV (720p) [Geo-blocked]
 https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8
