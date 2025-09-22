@@ -73,13 +73,8 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://warningfm.github.io/v3/img/sbt6Zwy.png?v=1.0.0.1" group-title="TV Indonesia", VTV1ᴸᴼᵂ
-https://why.biz.id/Iptv/oxygen.php?id=vtv&extension=m3u8&play
-
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://warningfm.github.io/v3/img/sbt6Zwy.png?v=1.0.0.1" group-title="TV Indonesia", VTV2ᴸᴼᵂ
-https://why.biz.id/Iptv/oxygen.php?id=vtv&extension=m3u8&play
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://warningfm.github.io/v3/img/sbt6Zwy.png?v=1.0.0.1" group-title="TV Indonesia", VTVᴸᴼᵂ
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch107.m3u8
 
 #EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="TV Indonesia", TVRI Nasional 1
@@ -187,13 +182,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000125/1024.m3u8
 #EXTINF:-1 tvg-id="MentariTV.id" tvg-name="Mentari TV" tvg-logo="https://warningfm.github.io/v3/img/WB2ot4t.png?v=1.1.1.1" group-title="TV Kids", Mentari TV
 https://why.biz.id/Iptv/oxygen.php?id=mentaritv&extension=m3u8&play
 
-#EXTINF:-1 tvg-id="KidsTV.id" tvg-logo="https://i.imgur.com/B5YiUIP.png" group-title="Kids",Kids TV
-http://origin5.mediacdn.ru/live/kidstv/index.m3u8
-
-#EXTINF:-1 tvg-id="MyKidz.id" tvg-logo="https://i.imgur.com/qzZFU6d.png" group-title="Kids",My Kidz (1080p) [Geo-blocked]
-http://210.210.155.37/uq2663/h/h191/index.m3u8
-
-#EXTINF:-1 tvg-id="Horee.id" tvg-logo="https://i.imgur.com/S4aoHg8.png" group-title="Kids",Horee! (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Horee.id" tvg-logo="https://i.imgur.com/S4aoHg8.png" group-title="TV Kids",Horee! (720p) [Geo-blocked]
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
