@@ -130,10 +130,6 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000125/1024.m3u8
 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-#EXTINF:-1 tvg-id="MentariTV.id" tvg-name="Mentari TV" tvg-logo="https://warningfm.github.io/v3/img/WB2ot4t.png?v=1.1.1.1" group-title="TV Kids", Mentari TV
-https://why.biz.id/Iptv/oxygen.php?id=mentaritv&extension=m3u8&play
-
 #EXTINF:-1 tvg-id="Horee.id" tvg-logo="https://i.imgur.com/S4aoHg8.png" group-title="TV Kids",Horee! (720p) [Geo-blocked]
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
 
@@ -823,38 +819,29 @@ https://tv.aliman.id/aliman/live.m3u8
 #EXTINF:-1 tvg-id="AlWafaTarim.id" tvg-logo="https://i.ibb.co/3yfMjmf/logo-3.png" group-title="TV Religious",Alwafa Tarim TV (Am Media) (720p)
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TawafTV.id" tvg-logo="https://i.postimg.cc/VvVgb6dN/logo-tawaf.png" group-title="TV Religious",Tawaf TV (720p)
-https://streamtawaf.asfatv.com/hls/tawaftv.m3u8
-
 #EXTINF:-1 tvg-id="RodjaTV.id" tvg-logo="https://i.imgur.com/XwCeHlC.png" group-title="TV Religious",Rodja TV (720p)
 https://rodjatv.com/rodjatv/live.m3u8
 
-#EXTINF:-1 tvg-id="MGITV.id" tvg-logo="https://i.imgur.com/xrNtabe.png" group-title="TV Religious",MGI TV (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="MGITV.id" tvg-logo="https://i.imgur.com/xrNtabe.png" group-title="TV Religious",MGI TV (720p)
 https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CitraMuslim.id" tvg-logo="https://i.imgur.com/L0kjuZs.png" group-title="TV Religious",Citra Muslim [Geo-blocked]
+#EXTINF:-1 tvg-id="CitraMuslim.id" tvg-logo="https://i.imgur.com/L0kjuZs.png" group-title="TV Religious",Citra Muslim
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch334)/index.m3u8
 
 #EXTINF:-1 tvg-id="DAAITV.id" tvg-logo="https://i.imgur.com/YC7JCHo.png" group-title="TV Religious",DAAI TV (720p)
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8
 
-#EXTINF:-1 tvg-id="DhammaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/63/Dhamma_TV_baru.png" group-title="TV Religious",Dhamma TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="DhammaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/63/Dhamma_TV_baru.png" group-title="TV Religious",Dhamma TV (720p)
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 
-#EXTINF:-1 tvg-id="MQTV.id" tvg-logo="https://i.imgur.com/d8dQo6E.png" group-title="TV Religious",MQTV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="MQTV.id" tvg-logo="https://i.imgur.com/d8dQo6E.png" group-title="TV Religious",MQTV (720p)
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MTATV.id" tvg-logo="https://i.imgur.com/3kGs7k0.png" group-title="TV Religious",MTA TV (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="MTATV.id" tvg-logo="https://i.imgur.com/3kGs7k0.png" group-title="TV Religious",MTA TV (720p)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8
-
-#EXTINF:-1 tvg-id="FajarTV.id" tvg-logo="https://i.imgur.com/mkuXxRK.png" group-title="TV Religious",Fajar TV (240p) [Not 24/7]
-http://122.248.43.138:1935/ch27/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IzzahTV.id" tvg-logo="https://i.imgur.com/my7aqLc.png" group-title="TV Religious",Izzah TV (480p)
 https://streaming.radiosalamjambi.com/izzahtv.m3u8
-
-#EXTINF:-1 tvg-id="IAmChannel.id" tvg-logo="https://i.imgur.com/Gg6OcGT.png" group-title="TV Religious",I AM CHANNEL (576p) [Not 24/7]
-http://iamchannel.org:1935/tes/1/playlist.m3u8
 
 
 ---- TV Sports -----
