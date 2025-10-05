@@ -13,6 +13,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000106/1024.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co.com/tPHJ7gzF/GARUDA.png" group-title="TV Indonesia",Garuda TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
+
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="TV Indonesia", GTVᴸᴼᵂ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
@@ -136,6 +140,9 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000125/1024.m3u8
 
 #EXTINF:-1 tvg-id="Horee.id" tvg-logo="https://i.imgur.com/S4aoHg8.png" group-title="TV Kids",Horee! (720p) [Geo-blocked]
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
+
+#EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/yFCPhMkq/INDONESIANA.png" group-title="TV Kids",INDONESIANA TV
+https://tvstreamcast.com/indonesiana.m3u8
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
@@ -746,12 +753,7 @@ ___ kis coba ____
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co.com/tPHJ7gzF/GARUDA.png" group-title="INDONESIA HD",Garuda TV
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 
-#EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/yFCPhMkq/INDONESIANA.png" group-title="Indonesia",INDONESIANA TV
-https://tvstreamcast.com/indonesiana.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/rKjMcJw9/TVKESEHATAN.png" group-title="Indonesia",TV KESEHATAN
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
