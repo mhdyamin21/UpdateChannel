@@ -152,6 +152,9 @@ https://cdn4.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000006/1024.m3u8
 
+#EXTINF:-1 tvg-logo="https://youtv.id/data/channel/dei-kids-tv_20230112175023.jpeg" group-title="TV Kids" resolution="1280@720",Dei Kids
+https://e.siar.us/live/deikidstv.m3u8
+
 #EXTINF:-1 tvg-id="DreamWorks.id" tvg-name="Dreamworks HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_47.png" group-title="TV Kids", Dreamworks ᴸᴼᵂ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
@@ -629,9 +632,6 @@ https://tvku.tv/hlsstream/hls/live.m3u8
 #EXTINF:-1 tvg-id="UGTV.id" tvg-logo="https://i.imgur.com/iEKDH26.png" group-title="TV Lokal",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
-#EXTINF:-1 tvg-id="WesalTV.id" tvg-logo="https://i.imgur.com/Uv8RWks.png" group-title="TV Lokal",Wesal TV
-https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
-
 ----- ALL TVRI -----
 
 #EXTINF:-1 tvg-id="TVRI.id@Aceh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="ALL TVRI",TVRI Aceh (720p)
@@ -735,11 +735,17 @@ https://tv.aliman.id/aliman/live.m3u8
 #EXTINF:-1 tvg-id="AlWafaTarim.id" tvg-logo="https://i.ibb.co/3yfMjmf/logo-3.png" group-title="TV Religious",Alwafa Tarim TV (Am Media) (720p)
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RodjaTV.id" tvg-logo="https://i.imgur.com/XwCeHlC.png" group-title="TV Religious",Rodja TV (720p)
-https://rodjatv.com/rodjatv/live.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/alwafa.png" group-title="TV Religious" resolution="1280@720",Al Wafa Tarim TV
+https://ammedia.siar.us/ammedia/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MGITV.id" tvg-logo="https://i.imgur.com/xrNtabe.png" group-title="TV Religious",MGI TV (720p)
-https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.artvisi.or.id/assets/img/artvisi.png" group-title="TV Religious" resolution="1280@720",ARTVISI
+https://streaming.yufid.com/hls/artvisi.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ashiiltv.png" group-title="TV Religious" resolution="640@360",ASHIIL TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
+
+#EXTINF:-1 tvg-logo="https://brtv.co.id/wp-content/uploads/2022/11/Logo-BRTV.png" group-title="TV Religious" resolution="1280@720",BRTV
+https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CitraMuslim.id" tvg-logo="https://i.imgur.com/L0kjuZs.png" group-title="TV Religious",Citra Muslim
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch334)/index.m3u8
@@ -751,14 +757,34 @@ https://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8
 #EXTINF:-1 tvg-id="DhammaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/63/Dhamma_TV_baru.png" group-title="TV Religious",Dhamma TV (720p)
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 
-#EXTINF:-1 tvg-id="MQTV.id" tvg-logo="https://i.imgur.com/d8dQo6E.png" group-title="TV Religious",MQTV (720p)
-https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+#EXTINF:-1 tvg-id="IzzahTV.id" tvg-logo="https://i.imgur.com/my7aqLc.png" group-title="TV Religious",Izzah TV (480p)
+https://streaming.radiosalamjambi.com/izzahtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/madanitv.png" group-title="TV Religious" resolution="1280@720",Madani TV
+https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MTATV.id" tvg-logo="https://i.imgur.com/3kGs7k0.png" group-title="TV Religious",MTA TV (720p)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8
 
-#EXTINF:-1 tvg-id="IzzahTV.id" tvg-logo="https://i.imgur.com/my7aqLc.png" group-title="TV Religious",Izzah TV (480p)
-https://streaming.radiosalamjambi.com/izzahtv.m3u8
+#EXTINF:-1 tvg-id="MGITV.id" tvg-logo="https://i.imgur.com/xrNtabe.png" group-title="TV Religious",MGI TV (720p)
+https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0d/TV_MUI.png" group-title="TV Religious" resolution="854@480",MUI TV
+https://tvmui.siar.us/tvmui/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MQTV.id" tvg-logo="https://i.imgur.com/d8dQo6E.png" group-title="TV Religious",MQTV (720p)
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RodjaTV.id" tvg-logo="https://i.imgur.com/XwCeHlC.png" group-title="TV Religious",Rodja TV (720p)
+https://rodjatv.com/rodjatv/live.m3u8
+
+#EXTINF:-1 tvg-id="WesalTV.id" tvg-logo="https://i.imgur.com/Uv8RWks.png" group-title="TV Religious",Wesal TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
+
+
+
+
+
 
 
 ---- TV Sports -----
