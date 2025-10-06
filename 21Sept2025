@@ -745,6 +745,17 @@ https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 
 # --- TV Religious ---
 
+#EXTINF:-1 group-title="TV Religious" tvg-logo="https://i.imgur.com/E8tmhpf.jpg",LIVE MAKKAH-DT1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8 
+
+#EXTINF:-101 group-title="TV Religious" tvg-logo="https://i.imgur.com/E8tmhpf.jpg",LIVE MAKKAH-DT2
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9O3Zx9Z.jpg" group-title="TV Religious", LIVE MADINAH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8 
+
 #EXTINF:-1 tvg-id="AlImanTV.id" tvg-logo="https://i.postimg.cc/9MCT0tCj/alimantv.png" group-title="TV Religious",Al-Iman TV (720p)
 https://tv.aliman.id/aliman/live.m3u8
 
