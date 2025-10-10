@@ -524,6 +524,12 @@ http://210.210.155.37/uq2663/h/h08/index.m3u8
 
 # --- TV Lokal ---
 
+#EXTINF:-1 tvg-id="AsthaTV.id@HD" group-title="TV Lokal", Astha TV
+https://hgmtv.com:19360/asthatv/asthatv.m3u8
+
+#EXTINF:-1 tvg-id="BatamTV.id@SD" group-title="TV Lokal", Batam TV
+http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BungoTV.id" tvg-logo="https://i.imgur.com/OrCrtDA.png" group-title="TV Lokal",Bungo TV
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 
@@ -570,16 +576,22 @@ https://e.siar.us/live/dmtv.m3u8
 #EXTINF:-1 tvg-id="DutaTV.id" tvg-logo="https://i.imgur.com/B4JW54M.png" group-title="TV Lokal",Duta TV
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="dTVi.id@SD" group-title="TV Lokal", dTVi
+https://e.siar.us/live/dtvi.m3u8
+
 #EXTINF:-1 tvg-id="EfarinaTV.id@SD" tvg-logo="https://i.imgur.com/iYTimXh.png" group-title="TV Lokal",Efarina TV
 https://live.efarinatv.net/hls/stream123/index.m3u8
 
 #EXTINF:-1 tvg-id="ElshintaTV.id@SD" tvg-logo="https://i.imgur.com/x5uoy2H.png" group-title="TV Lokal",Elshinta TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
 
+#EXTINF:-1 tvg-id="FicomChannel.id" group-title="TV Lokal", Ficom Channel
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="HumaBetangTV.id" tvg-logo="https://i.imgur.com/xBTqOEu.png" group-title="TV Lokal",Huma Betang TV
 https://v3.siar.us/humabetangtv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="InspiraTV.id" tvg-logo="https://i.imgur.com/BF5orkg.png" group-title="TV Lokal",Inspira TV (720p)
+#EXTINF:-1 tvg-id="InspiraTV.id" tvg-logo="https://i.imgur.com/BF5orkg.png" group-title="TV Lokal",Inspira TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -589,6 +601,24 @@ https://op-group1-swiftservesd-1.dens.tv/s/s123/index2.m3u8?app_type=web&userid=
 
 #EXTINF:-1 tvg-id="JawaPosTV.id" tvg-logo="https://i.imgur.com/Kt2kOGH.png" group-title="TV Lokal",Jawa Pos TV
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JawaPosTV.id@SD" group-title="TV Lokal", Jawa Pos TV
+http://122.248.43.242:1935/JAWAPOSTVSBY/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JawaPosTV.id@Semarang" group-title="TV Lokal",Jawa Pos TV Semarang
+http://122.248.43.242:1935/JAWAPOSTVSEMARANG/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JawaPosTV.id@Magelang" group-title="TV Lokal", Jawa Pos TV Magelang
+http://122.248.43.242:1935/JAWAPOSTVMAGELANG/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JawaPosTV.id@Madiun" group-title="TV Lokal", Jawa Pos TV Madiun
+http://122.248.43.242:1935/JAWAPOSTVMADIUN/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JawaPosTV.id@Jakarta" group-title="TV Lokal", Jawa Pos TV Jakarta
+http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JawaPosTV.id@Bali" group-title="TV Lokal", Jawa Pos TV Bali
+http://122.248.43.242:1935/JAWAPOSTVBALI/_definst_/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JTV.id" tvg-name="JTV" tvg-logo="https://images.indihometv.com/assets/88_JTV_2025_03_17_15_01_58.png" group-title="TV Lokal", JTVᴸᴼᵂ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
@@ -603,18 +633,25 @@ https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 #EXTINF:-1 tvg-id="JTV.id" tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="TV Lokal",JTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch17)/index.m3u8
 
+#EXTINF:-1 tvg-id="JTV.id@Kediri" group-title="TV Lokal", JTV Kediri
+http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JTV.id@SD" group-title="TV Lokal", JTV (480p)
+http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="KilisuciTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e4/Kilisuci_TV_NEW_LOGO_2016.png" group-title="TV Lokal",Kilisuci TV
 https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MaduTV.id" tvg-logo="https://i.imgur.com/cKpgbgW.png" group-title="TV Lokal",Madu TV
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MagnaChannel.id" tvg-logo="https://i.imgur.com/tfJo0SO.png" group-title="TV Lokal",Magna Channel
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PONTV.id@SD"group-title="TV Lokal", PONTV
+http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadarTasikmalayaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo_Radar_Tasikmalaya_TV.png" group-title="TV Lokal",Radar Tasikmalaya TV (720p) [Not 24/7]
 https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RCTV.id" group-title="TV Lokal", RCTV
 #EXTINF:-1 tvg-id="RTMASEAN.my" tvg-logo="https://i.imgur.com/skAiUxg.png" group-title="TV Lokal",RTM ASEAN
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
 
@@ -624,11 +661,23 @@ https://saktitv.siar.us/saktitv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="SaliraTV.id@SD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/salira-tv-id.png" group-title="TV Lokal",Salira TV
 https://live.salira.tv/p/3870/hybrid/play.m3u8
 
+#EXTINF:-1 tvg-id="SampitTV.id" group-title="TV Lokal", Sampit TV
+https://sampit-tv.siar.us/live/sampit-tv.m3u8
+
 #EXTINF:-1 tvg-id="SemarangTV.id" tvg-logo="https://i.imgur.com/KFC2WSB.png" group-title="TV Lokal",Semarang TV
 http://116.254.112.74/hls/cakralive.m3u8
 
+#EXTINF:-1 tvg-id="Simpang5TV.id" group-title="TV Lokal", Simpang5 TV
+http://122.248.43.242:1935/SIMPANG5TV/_definst_/myStream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SriwijayaTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/75/SriwijayaTV_2014.png" group-title="TV Lokal",Sriwijaya TV
 https://sriwijayatv.siar.us/live/sriwijayatv.m3u8
+
+#EXTINF:-1 tvg-id="SMTV.id" group-title="TV Lokal", SMTV
+http://122.248.43.242:1935/SMTV/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SurabayaTV.id@SD" group-title="TV Lokal", Surabaya TV
+https://e.siar.us/live/surabayatv.m3u8
 
 #EXTINF:-1 tvg-id="TATV.id" tvg-logo="https://i.imgur.com/1f0EC7t.png" group-title="TV Lokal",TATV
 https://v2.siar.us/tatv/live.sdp/playlist.m3u8
@@ -645,8 +694,13 @@ https://mui.siar.us/mui/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TVKU.id" tvg-logo="https://i.imgur.com/BAklJGy.png" group-title="TV Lokal",TVKU
 https://tvku.tv/hlsstream/hls/live.m3u8
 
+#EXTINF:-1 tvg-id="TVTabalong.id" group-title="TV Lokal", TV Tabalong
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+
 #EXTINF:-1 tvg-id="UGTV.id" tvg-logo="https://i.imgur.com/iEKDH26.png" group-title="TV Lokal",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+
+
 
 ----- ALL TVRI -----
 
@@ -781,19 +835,19 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch334)/index.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8
 
-#EXTINF:-1 tvg-id="DhammaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/63/Dhamma_TV_baru.png" group-title="TV Religious",Dhamma TV (720p)
+#EXTINF:-1 tvg-id="DhammaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/63/Dhamma_TV_baru.png" group-title="TV Religious",Dhamma TV
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 
-#EXTINF:-1 tvg-id="IzzahTV.id" tvg-logo="https://i.imgur.com/my7aqLc.png" group-title="TV Religious",Izzah TV (480p)
+#EXTINF:-1 tvg-id="IzzahTV.id" tvg-logo="https://i.imgur.com/my7aqLc.png" group-title="TV Religious",Izzah TV
 https://streaming.radiosalamjambi.com/izzahtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/madanitv.png" group-title="TV Religious" resolution="1280@720",Madani TV
 https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MTATV.id" tvg-logo="https://i.imgur.com/3kGs7k0.png" group-title="TV Religious",MTA TV (720p)
+#EXTINF:-1 tvg-id="MTATV.id" tvg-logo="https://i.imgur.com/3kGs7k0.png" group-title="TV Religious",MTA TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8
 
-#EXTINF:-1 tvg-id="MGITV.id" tvg-logo="https://i.imgur.com/xrNtabe.png" group-title="TV Religious",MGI TV (720p)
+#EXTINF:-1 tvg-id="MGITV.id" tvg-logo="https://i.imgur.com/xrNtabe.png" group-title="TV Religious",MGI TV
 https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0d/TV_MUI.png" group-title="TV Religious" resolution="854@480",MUI TV
@@ -805,7 +859,13 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 #EXTINF:-1 tvg-id="RodjaTV.id" tvg-logo="https://i.imgur.com/XwCeHlC.png" group-title="TV Religious",Rodja TV
 https://rodjatv.com/rodjatv/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dXca2sG.jpg" group-title="TV Religious" ,TV 10 HD
+#EXTINF:-1 tvg-id="SalamTV.id@SD" group-title="TV Religious", Salam TV
+https://salamtv.siar.us/live/salamtv.m3u8
+
+#EXTINF:-1 tvg-id="SurauTV.id@SD" group-title="TV Religious", Surau TV
+https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dXca2sG.jpg" group-title="TV Religious" ,TV 10
 https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WesalTV.id" tvg-logo="https://i.imgur.com/Uv8RWks.png" group-title="TV Religious",Wesal TV
