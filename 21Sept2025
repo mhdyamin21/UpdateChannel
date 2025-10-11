@@ -53,7 +53,6 @@ https://ultra2.falconx1.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8
 #EXTVLCOPT:http-referrer=https://ultra2.falconx1.cfd/000/
 https://ultra2.falconx1.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8
 
-
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://iili.io/FtSMHX9.jpg", 21:15 WIB Sevilla vs Barcelona
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -75,7 +74,6 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 20:00 WIB Fiorentina vs Roma
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -145,6 +143,13 @@ https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
 https://live1.pro2cdnlive.com/live/channel4.m3u8?wsSecret=b763da4e556e45d9370876054ff6ebc2&wsABSTime=1759338799
+
+#EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpg6Y9_KnQbhueJCGB8swdZjRfIK17XiyKog&s", 02:30 WIB Irak vs Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://www.instreamtv.xyz
+#EXTVLCOPT:http-referrer=https://www.instreamtv.xyz/
+https://play-cdn.sportsbal.com/sport/202_4279863_1.m3u8?hls_ctx=asm968sd&sign=NT_MrWefMZcTWSuCrETP0KnKgW-2TtuVqUW0Pv1gxJiRk7zWrPSYuG3trRewli6nJnFPfe96hfNLVkg5lpnLNfAdUMOnUpdU28np1BCnbgzJevw3KdiBY_dim3d5Dc_hCYJ1nhLp9X0j1625j_sBhq1QvNwrKXqY0oJHAzqTqRDBG6JewTpBPSrV1VWEUdM6IcJcL9EEgaiAERgP_uxDK2_VQX7rhTGIOBT4caE9KepjLGS10DXRzpuL1eTVyfdVVoikqqFXMEoB-nTgwna3k_SaiZlo4lKFxPNeZ3Q8oEceY63voi-5l07SoU2xsQkbDPDaVW3Ms-pjT3F_5ccerA&timestamp=1760210325403
+
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/250px-MLS_crest_logo_RGB_gradient.svg.png", 08:00 WIB Los Angeles FC vs Atlanta United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
