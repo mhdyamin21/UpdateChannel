@@ -6,6 +6,13 @@ https://drive.google.com/uc?export=download&id=1GS1B3u44Uqpw-JupQ2yWSrE4oehc94WX
 #EXTINF:-1 group-logo="https://iili.io/31b53AB.png" tvg-logo="https://iili.io/31b53AB.png" group-title="LIVE EVENT", EVENT 5 dan 6 OKTOBER 2025
 https://drive.google.com/uc?export=download&id=1GS1B3u44Uqpw-JupQ2yWSrE4oehc94WX&usp
 
+#EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpg6Y9_KnQbhueJCGB8swdZjRfIK17XiyKog&s", 02:30 WIB Irak vs Indonesia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://iili.io/FtSr5Mb.jpg", 20:00 WIB Everton vs Crystal Palace
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://www.instreamtv.xyz
