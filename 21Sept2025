@@ -31,6 +31,28 @@ https://play-cdn.sportsbal.com/sport/202_4036626_1.m3u8?hls_ctx=28y10qlr&sign=Hg
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
+#EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png", 19:00 WIB Deltras vs Persipura
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://www.instreamtv.xyz
+#EXTVLCOPT:http-referrer=https://www.instreamtv.xyz/
+https://play-cdn.sportsbal.com/sport/202_4329478_1.m3u8?hls_ctx=ovu581nt&sign=YPTlZhi9tjWLtgwvzj5CR4sEf_niBw9GqZpdyGizaRJqtpNFyoK5rM-dda0jirzqDEPpZhGZMu5qxz6HfmjERmULMUCUGTBDAK5mqPrQoN7QvrPBg2zps-mLej4knpfThfNIbRPAPGH7fcrsQhAvISObn-ua-j4a4Ym7S_tfIbNep1tbOOclphB2oAkVg7oGBs-wWWJpouCEOE9uZz7cFUenuNwg4fiED81ynhAuAlvzhI57RWVKDKUZTYZCTsZkaWj2j9LtYZdkHyi4USJ2d5KzvatjwJwQYDZo-Mq064gR_eHUvjXabqGNWKpLCU3nPToPnhz4xQ7zK6kk02n0bA&timestamp=1760184342365
+
+#EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png", 19:00 WIB PSMS vs Persikad Depok FC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://www.instreamtv.xyz
+#EXTVLCOPT:http-referrer=https://www.instreamtv.xyz/
+https://play-cdn.sportsbal.com/sport/202_4329479_1.m3u8?hls_ctx=w9t59k1h&sign=HSmx2w5PHzj7qbbJ-NzFj7kRxoalVVYrP3m0gaDWh-4eJFF6M5ub-cmwcZFts2Re6UfWWTg9t1UHdv2JYcyeSCRbJH3KpLwBpakZOAK1v24cQ6uUTgurbx92XuVXpQ_ESYdsxQMsWbaRvDSGw50GG7oUPEcl7DbSTirtwN0Ys6bVJMGvYztwBbZMxR_1Jv3D3o-PYSSaUw45dtLvOjq_yPRewRJPctDpa0f4qhvRTLBkTK9Trfkr77APK_nhVc6toUPbNwTHal0eTIGLnAV-tH5Zt2L8IHEo4WX7O5nvdzayK8ikyjJu2xn-E3uQNnxu8jRrP8VqbqbCW55bnZzMiA&timestamp=1760184413455
+
+#EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpg6Y9_KnQbhueJCGB8swdZjRfIK17XiyKog&s", 20:00 WIB Latvia vs Andorra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://ultra2.falconx1.cfd/000/
+https://ultra2.falconx1.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8
+
+#EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpg6Y9_KnQbhueJCGB8swdZjRfIK17XiyKog&s", 23:00 WIB Hungaria vs Armenia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://ultra2.falconx1.cfd/000/
+https://ultra2.falconx1.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8
+
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://iili.io/FtSMHX9.jpg", 21:15 WIB Sevilla vs Barcelona
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
