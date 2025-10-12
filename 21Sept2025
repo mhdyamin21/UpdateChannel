@@ -1,6 +1,10 @@
 #EXTM3U
 
 -- LIVE UPDATE --
+
+#EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpg6Y9_KnQbhueJCGB8swdZjRfIK17XiyKog&s", 23:00 WIB Belanda vs Finlandia
+https://pulse1.zalmora.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
+
 #EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpg6Y9_KnQbhueJCGB8swdZjRfIK17XiyKog&s", 23:00 WIB Belanda vs Finlandia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://pulse1.zalmora.cfd/000/
