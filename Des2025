@@ -1055,6 +1055,12 @@ https://wahyu1ptv.pages.dev/Go3Sport2-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport3.png" group-title="TV Sports", Go3Sport3
 https://wahyu1ptv.pages.dev/Go3Sport3-HD.m3u8
 
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/horizonsports.jpg" group-title="TV Sports",HORIZON SPORTS
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/sportstvtr.jpg" group-title="TV Sports",SPORTS TV TURKEY
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
 #EXTINF:-1 tvg-id="HorseTVHD.it" tvg-logo="https://i.imgur.com/PPwZaN6.jpg" group-title="TV Sports",HORSE TV
 https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 
