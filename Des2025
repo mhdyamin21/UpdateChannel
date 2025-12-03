@@ -1030,15 +1030,6 @@ https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/master.
 #EXTINF:-1 group-title="TV Sports" tvg-logo="https://i.imgur.com/VE39H7y.jpg",DUBAI SPORTS 3 
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="ElevenSport1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-1-hd(1).png" group-title="TV Sports", ElevenSport1
-https://wahyu1ptv.pages.dev/ElevenSports1-HD.m3u8
-
-#EXTINF:-1 tvg-id="ElevenSport2" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-2-hd(1).png" group-title="TV Sports", ElevenSport2
-https://wahyu1ptv.pages.dev/ElevenSports2-HD.m3u8
-
-#EXTINF:-1 tvg-id="ElevenSport3" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-3-hd(1).png" group-title="TV Sports", ElevenSport3
-https://wahyu1ptv.pages.dev/ElevenSports3-HD.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rL5ApWv.jpg" group-title="TV Sports",ESPN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://fortv.cc:8080/live/cQnq6G/652882/2210.m3u8
