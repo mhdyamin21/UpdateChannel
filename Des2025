@@ -1181,76 +1181,76 @@ https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 
 # --- TV Religious ---
 
-#EXTINF:-1 group-title="TV Religious" tvg-logo="https://i.imgur.com/E8tmhpf.jpg",LIVE MAKKAH-DT1
+#EXTINF:-1 group-title="TV Religi" tvg-logo="https://i.imgur.com/E8tmhpf.jpg",LIVE MAKKAH-DT1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8 
 
-#EXTINF:-101 group-title="TV Religious" tvg-logo="https://i.imgur.com/E8tmhpf.jpg",LIVE MAKKAH-DT2
+#EXTINF:-101 group-title="TV Religi" tvg-logo="https://i.imgur.com/E8tmhpf.jpg",LIVE MAKKAH-DT2
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9O3Zx9Z.jpg" group-title="TV Religious", LIVE MADINAH
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9O3Zx9Z.jpg" group-title="TV Religi", LIVE MADINAH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8 
 
-#EXTINF:-1 tvg-id="AlImanTV.id" tvg-logo="https://i.postimg.cc/9MCT0tCj/alimantv.png" group-title="TV Religious",Al-Iman TV (720p)
+#EXTINF:-1 tvg-id="AlImanTV.id" tvg-logo="https://i.postimg.cc/9MCT0tCj/alimantv.png" group-title="TV Religi",Al-Iman TV (720p)
 https://tv.aliman.id/aliman/live.m3u8
 
-#EXTINF:-1 tvg-id="AlWafaTarim.id" tvg-logo="https://i.ibb.co/3yfMjmf/logo-3.png" group-title="TV Religious",Alwafa Tarim TV (Am Media) (720p)
+#EXTINF:-1 tvg-id="AlWafaTarim.id" tvg-logo="https://i.ibb.co/3yfMjmf/logo-3.png" group-title="TV Religi",Alwafa Tarim TV (Am Media) (720p)
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/alwafa.png" group-title="TV Religious" resolution="1280@720",Al Wafa Tarim TV
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/alwafa.png" group-title="TV Religi" resolution="1280@720",Al Wafa Tarim TV
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://streaming.artvisi.or.id/assets/img/artvisi.png" group-title="TV Religious" resolution="1280@720",ARTVISI
+#EXTINF:-1 tvg-logo="https://streaming.artvisi.or.id/assets/img/artvisi.png" group-title="TV Religi" resolution="1280@720",ARTVISI
 https://streaming.yufid.com/hls/artvisi.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ashiiltv.png" group-title="TV Religious" resolution="640@360",ASHIIL TV
+#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ashiiltv.png" group-title="TV Religi" resolution="640@360",ASHIIL TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 
-#EXTINF:-1 tvg-logo="https://brtv.co.id/wp-content/uploads/2022/11/Logo-BRTV.png" group-title="TV Religious" resolution="1280@720",BRTV
+#EXTINF:-1 tvg-logo="https://brtv.co.id/wp-content/uploads/2022/11/Logo-BRTV.png" group-title="TV Religi" resolution="1280@720",BRTV
 https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CitraMuslim.id" tvg-logo="https://i.imgur.com/L0kjuZs.png" group-title="TV Religious",Citra Muslim
+#EXTINF:-1 tvg-id="CitraMuslim.id" tvg-logo="https://i.imgur.com/L0kjuZs.png" group-title="TV Religi",Citra Muslim
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch334)/index.m3u8
 
-#EXTINF:-1 tvg-id="DAAITV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/daaitv.png?raw=true" group-title="TV Religious",DAAI TV
+#EXTINF:-1 tvg-id="DAAITV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/daaitv.png?raw=true" group-title="TV Religi",DAAI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8
 
-#EXTINF:-1 tvg-id="DhammaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/63/Dhamma_TV_baru.png" group-title="TV Religious",Dhamma TV
+#EXTINF:-1 tvg-id="DhammaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/63/Dhamma_TV_baru.png" group-title="TV Religi",Dhamma TV
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 
-#EXTINF:-1 tvg-id="IzzahTV.id" tvg-logo="https://i.imgur.com/my7aqLc.png" group-title="TV Religious",Izzah TV
+#EXTINF:-1 tvg-id="IzzahTV.id" tvg-logo="https://i.imgur.com/my7aqLc.png" group-title="TV Religi",Izzah TV
 https://streaming.radiosalamjambi.com/izzahtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/madanitv.png" group-title="TV Religious" resolution="1280@720",Madani TV
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/madanitv.png" group-title="TV Religi" resolution="1280@720",Madani TV
 https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MTATV.id" tvg-logo="https://i.imgur.com/3kGs7k0.png" group-title="TV Religious",MTA TV
+#EXTINF:-1 tvg-id="MTATV.id" tvg-logo="https://i.imgur.com/3kGs7k0.png" group-title="TV Religi",MTA TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8
 
-#EXTINF:-1 tvg-id="MGITV.id" tvg-logo="https://i.imgur.com/xrNtabe.png" group-title="TV Religious",MGI TV
+#EXTINF:-1 tvg-id="MGITV.id" tvg-logo="https://i.imgur.com/xrNtabe.png" group-title="TV Religi",MGI TV
 https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0d/TV_MUI.png" group-title="TV Religious" resolution="854@480",MUI TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0d/TV_MUI.png" group-title="TV Religi" resolution="854@480",MUI TV
 https://tvmui.siar.us/tvmui/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MQTV.id" tvg-logo="https://i.imgur.com/d8dQo6E.png" group-title="TV Religious",MQTV
+#EXTINF:-1 tvg-id="MQTV.id" tvg-logo="https://i.imgur.com/d8dQo6E.png" group-title="TV Religi",MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RodjaTV.id" tvg-logo="https://i.imgur.com/XwCeHlC.png" group-title="TV Religious",Rodja TV
+#EXTINF:-1 tvg-id="RodjaTV.id" tvg-logo="https://i.imgur.com/XwCeHlC.png" group-title="TV Religi",Rodja TV
 https://rodjatv.com/rodjatv/live.m3u8
 
-#EXTINF:-1 tvg-id="SalamTV.id@SD" group-title="TV Religious", Salam TV
+#EXTINF:-1 tvg-id="SalamTV.id@SD" group-title="TV Religi", Salam TV
 https://salamtv.siar.us/live/salamtv.m3u8
 
-#EXTINF:-1 tvg-id="SurauTV.id@SD" group-title="TV Religious", Surau TV
+#EXTINF:-1 tvg-id="SurauTV.id@SD" group-title="TV Religi", Surau TV
 https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dXca2sG.jpg" group-title="TV Religious" ,TV 10
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dXca2sG.jpg" group-title="TV Religi" ,TV 10
 https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WesalTV.id" tvg-logo="https://i.imgur.com/Uv8RWks.png" group-title="TV Religious",Wesal TV
+#EXTINF:-1 tvg-id="WesalTV.id" tvg-logo="https://i.imgur.com/Uv8RWks.png" group-title="TV Religi",Wesal TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
 
@@ -2040,73 +2040,73 @@ https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/JmF1Csj.png" group-title="TVRI GROUP", TVRI Yogyakarta
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 
-#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-logo="https://i.ibb.co.com/th97cC2/quran.png" group-title="RELIGI", Qur'an TV
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-logo="https://i.ibb.co.com/th97cC2/quran.png" group-title="TV Religi", Qur'an TV
 https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&amp;userid=lite&amp;chname=Quran_TV
 
-#EXTINF:-1 tvg-id="sunnahtv.sa" tvg-logo="https://i.ibb.co.com/XsHqpJk/sunnah.png" group-title="RELIGI", Sunnah TV
+#EXTINF:-1 tvg-id="sunnahtv.sa" tvg-logo="https://i.ibb.co.com/XsHqpJk/sunnah.png" group-title="TV Religi", Sunnah TV
 https://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&amp;userid=lite&amp;chname=Sunna_TV
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/yPVKBJk/Muslimtv.png" group-title="RELIGI", Muslim TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/yPVKBJk/Muslimtv.png" group-title="TV Religi", Muslim TV
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-id="SALINGSAPA TV" tvg-logo="https://i.ibb.co.com/PJWY662/Salingsapatv.png" group-title="RELIGI", SALINGSAPA TV
+#EXTINF:-1 tvg-id="SALINGSAPA TV" tvg-logo="https://i.ibb.co.com/PJWY662/Salingsapatv.png" group-title="TV Religi", SALINGSAPA TV
 https://play.accolamedia.id/accola/salingsapatv-rtmp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RodjaTV.id" tvg-logo="https://i.ibb.co.com/37Wjk3p/rodja.png" group-title="RELIGI", RODJA TV
+#EXTINF:-1 tvg-id="RodjaTV.id" tvg-logo="https://i.ibb.co.com/37Wjk3p/rodja.png" group-title="TV Religi", RODJA TV
 http://op-group1-swiftservesd-1.dens.tv/s/s14/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="RELIGI", MUI TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Religi", MUI TV
 https://mui.siar.us/mui/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/RB1Wt6d/Tawaftv.png" group-title="RELIGI", TAWAF TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/RB1Wt6d/Tawaftv.png" group-title="TV Religi", TAWAF TV
 https://d1abp075u76pbq.cloudfront.net/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-id="madanitv.id" tvg-logo="https://i.ibb.co.com/BLLK7pT/madanitv.png" group-title="RELIGI", MADANI TV
+#EXTINF:-1 tvg-id="madanitv.id" tvg-logo="https://i.ibb.co.com/BLLK7pT/madanitv.png" group-title="TV Religi", MADANI TV
 https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ashiil" tvg-logo="https://i.ibb.co.com/2Jyd7dT/Ashiil-TV.png" group-title="RELIGI", ASHIIL TV
+#EXTINF:-1 tvg-id="ashiil" tvg-logo="https://i.ibb.co.com/2Jyd7dT/Ashiil-TV.png" group-title="TV Religi", ASHIIL TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 
-#EXTINF:-1 tvg-id="tv10.id" tvg-logo="https://i.ibb.co.com/KsJGvwX/tv10.png" group-title="RELIGI", TV10
+#EXTINF:-1 tvg-id="tv10.id" tvg-logo="https://i.ibb.co.com/KsJGvwX/tv10.png" group-title="TV Religi", TV10
 https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/6JTJfLT/deikids.png" group-title="RELIGI", DEI KIDS TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/6JTJfLT/deikids.png" group-title="TV Religi", DEI KIDS TV
 https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/dekid.m3u8
 
-#EXTINF:-1 tvg-id="MTATV.id" tvg-logo="https://i.ibb.co.com/Nt7wqCG/mtatv.png" group-title="RELIGI", MTA TV
+#EXTINF:-1 tvg-id="MTATV.id" tvg-logo="https://i.ibb.co.com/Nt7wqCG/mtatv.png" group-title="TV Religi", MTA TV
 https://streaming.indihometv.com/atm/DASH/mtatv/manifest.mpd
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/RB9CtH1/tvmu.png" group-title="RELIGI", TVMU V+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/RB9CtH1/tvmu.png" group-title="TV Religi", TVMU V+
 https://cempedak-live-cdn.mncnow.id/live/eds/TVMuhammadiyahnow/sa_dash_vmx/TVMuhammadiyahnow.mpd|referrer=https://visionplus.id
 
-#EXTINF:-1 tvg-id="MQTV.id" tvg-logo="https://i.ibb.co.com/3TyHPvF/mqtv.png" group-title="RELIGI", MQTV
+#EXTINF:-1 tvg-id="MQTV.id" tvg-logo="https://i.ibb.co.com/3TyHPvF/mqtv.png" group-title="TV Religi", MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV9Nusantara.id" tvg-logo="https://i.ibb.co.com/F62cfxy/tv9.png" group-title="RELIGI", TV9 NUSANTARA
+#EXTINF:-1 tvg-id="TV9Nusantara.id" tvg-logo="https://i.ibb.co.com/F62cfxy/tv9.png" group-title="TV Religi", TV9 NUSANTARA
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
-#EXTINF:-1 tvg-id="alwafatarim.id" tvg-logo="https://i.ibb.co.com/mt2RzmN/alwafa.png" group-title="RELIGI", Al Wafa Tarim TV
+#EXTINF:-1 tvg-id="alwafatarim.id" tvg-logo="https://i.ibb.co.com/mt2RzmN/alwafa.png" group-title="TV Religi", Al Wafa Tarim TV
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/3rxrMN1/wesal.png" group-title="RELIGI", Wesal TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/3rxrMN1/wesal.png" group-title="TV Religi", Wesal TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/T4qStm3/Artvisi.png" group-title="RELIGI", ARTVISI
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/T4qStm3/Artvisi.png" group-title="TV Religi", ARTVISI
 https://streaming.yufid.com/hls/artvisi.m3u8
 
-#EXTINF:-1 tvg-id="tvsunnah.id" tvg-logo="https://i.ibb.co.com/XzYBgX1/tvsunnah.png" group-title="RELIGI", TV SUNNAH
+#EXTINF:-1 tvg-id="tvsunnah.id" tvg-logo="https://i.ibb.co.com/XzYBgX1/tvsunnah.png" group-title="TV Religi", TV SUNNAH
 https://streaming.yufid.com/hls/radiokitatv.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="RELIGI", BahrainQuran
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Religi", BahrainQuran
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="RELIGI", Dzikir Pagi
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Religi", Dzikir Pagi
 https://www.googleapis.com/drive/v3/files/10diBSkO5Z730INaiSK2m0yqV0NduTzK5?alt=media&key=AIzaSyCX5QZIYemPG1aHoA29NJblJ5oSuqtEvFY
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="RELIGI", Dzikir Petang
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Religi", Dzikir Petang
 https://www.googleapis.com/drive/v3/files/10lRXPP0lrsjOCjDmQ-aMcQM9pXEmMRQi?alt=media&key=AIzaSyCX5QZIYemPG1aHoA29NJblJ5oSuqtEvFY
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="RELIGI", Dzikir Sebelum Tidur
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Religi", Dzikir Sebelum Tidur
 https://www.googleapis.com/drive/v3/files/11LBp4YaEbseYj7QySVewJj2Sa37GnVCR?alt=media&key=AIzaSyCX5QZIYemPG1aHoA29NJblJ5oSuqtEvFY
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/pRGgn5g/citra-dangdut.png" group-title="MUSIC", Citra Dangdut
