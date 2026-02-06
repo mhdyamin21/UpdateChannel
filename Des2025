@@ -1452,112 +1452,112 @@ https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/A1hlnLA.png" group-title="TIMNAS", Sportstars 2 HD
 ==================================================Indonesia=Channels==================================================
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png" group-title="Indonesia", GTV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png" group-title="TV Indonesia", GTV
 https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/rFb8pJr/RCTI.png" group-title="Indonesia", RCTI
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/rFb8pJr/RCTI.png" group-title="TV Indonesia", RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
-#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-logo="https://i.ibb.co.com/nbBkVwX/MNC.png" group-title="Indonesia", MNC TV
+#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-logo="https://i.ibb.co.com/nbBkVwX/MNC.png" group-title="TV Indonesia", MNC TV
 https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/xmVzkKw/SCTV.png" group-title="Indonesia", SCTV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/xmVzkKw/SCTV.png" group-title="TV Indonesia", SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/H7fzV5K/indosiar.png" group-title="Indonesia", INDOSIAR
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/H7fzV5K/indosiar.png" group-title="TV INDONESIA", INDOSIAR
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/wr5jRyZ/Moji.png" group-title="Indonesia", MOJI TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/wr5jRyZ/Moji.png" group-title="TV INDONESIA", MOJI TV
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/8XRWRcH/mentari.png" group-title="Indonesia", Mentari TV (INDIHOME)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/8XRWRcH/mentari.png" group-title="TV INDONESIA", Mentari TV (INDIHOME)
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
-#EXTINF:-1 tvg-id="MentariTV.id" tvg-logo="https://i.ibb.co.com/8XRWRcH/mentari.png" group-title="Indonesia", MENTARI TV HD
+#EXTINF:-1 tvg-id="MentariTV.id" tvg-logo="https://i.ibb.co.com/8XRWRcH/mentari.png" group-title="TV INDONESIA", MENTARI TV HD
 =======================================
 
-#EXTINF:-1 tvg-id="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png" group-title="Indonesia", ANTV
+#EXTINF:-1 tvg-id="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png" group-title="TV INDONESIA", ANTV
 https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/gVBgWFJ/vtv.png" group-title="Indonesia", VTV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/gVBgWFJ/vtv.png" group-title="TV INDONESIA", VTV
 https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/Viva.m3u8
 
-#EXTINF:-1 tvg-id="TransTV" tvg-logo="https://i.ibb.co.com/Hr47xyW/transtv.png" group-title="Indonesia", TRANS TV
+#EXTINF:-1 tvg-id="TransTV" tvg-logo="https://i.ibb.co.com/Hr47xyW/transtv.png" group-title="TV INDONESIA", TRANS TV
 https://dsgtq5sngxkde.cloudfront.net/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
-#EXTINF:-1 tvg-id="Trans7" tvg-logo="https://i.ibb.co.com/MRWF8K1/trans7.png" group-title="Indonesia", TRANS 7
+#EXTINF:-1 tvg-id="Trans7" tvg-logo="https://i.ibb.co.com/MRWF8K1/trans7.png" group-title="TV INDONESIA", TRANS 7
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
-#EXTINF:-1 tvg-id="NET" tvg-logo="https://i.ibb.co.com/J72JMfZ/net.png" group-title="Indonesia", NET TV
+#EXTINF:-1 tvg-id="NET" tvg-logo="https://i.ibb.co.com/J72JMfZ/net.png" group-title="TV INDONESIA", NET TV
 http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8|referrer=http://dens.tv
 
-#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" tvg-logo="https://i.ibb.co.com/bQP5St8/metrotv.png" group-title="Indonesia", METRO TV
+#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" tvg-logo="https://i.ibb.co.com/bQP5St8/metrotv.png" group-title="TV INDONESIA", METRO TV
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
-#EXTINF:-1 tvg-id="122" tvg-logo="https://i.ibb.co.com/p2YxB3y/magna.png" group-title="Indonesia", Magna Channel
+#EXTINF:-1 tvg-id="122" tvg-logo="https://i.ibb.co.com/p2YxB3y/magna.png" group-title="TV INDONESIA", Magna Channel
 http://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Magna_Channel
 
-#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" tvg-logo="https://i.ibb.co.com/nLH6pHr/tvone.png" group-title="Indonesia", TV ONE
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" tvg-logo="https://i.ibb.co.com/nLH6pHr/tvone.png" group-title="TV INDONESIA", TV ONE
 https://dsgtq5sngxkde.cloudfront.net/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
-#EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" tvg-logo="https://i.ibb.co.com/WxdZ1KH/inews.png" group-title="Indonesia", INEWS HD
+#EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" tvg-logo="https://i.ibb.co.com/WxdZ1KH/inews.png" group-title="TV INDONESIA", INEWS HD
 https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 
-#EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" tvg-logo="https://i.ibb.co.com/WxdZ1KH/inews.png" group-title="Indonesia", INEWS HD (INDIHOME)
+#EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" tvg-logo="https://i.ibb.co.com/WxdZ1KH/inews.png" group-title="TV INDONESIA", INEWS HD (INDIHOME)
 =======================================
 
-#EXTINF:-1 tvg-id="Sindo News TV HD - [Channel 434].id" tvg-logo="https://i.ibb.co.com/9v1hgk1/Sindonews.png" group-title="Indonesia", SINDONEWS
+#EXTINF:-1 tvg-id="Sindo News TV HD - [Channel 434].id" tvg-logo="https://i.ibb.co.com/9v1hgk1/Sindonews.png" group-title="TV INDONESIA", SINDONEWS
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
-#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-logo="https://i.ibb.co.com/sFFZLD7/kompas.png" group-title="Indonesia", KOMPAS TV
+#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-logo="https://i.ibb.co.com/sFFZLD7/kompas.png" group-title="TV INDONESIA", KOMPAS TV
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_GarudaTV_Merah_Putih_Silver_Merah.png/1200px-Logo_GarudaTV_Merah_Putih_Silver_Merah.png" group-title="Indonesia", Garuda TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_GarudaTV_Merah_Putih_Silver_Merah.png/1200px-Logo_GarudaTV_Merah_Putih_Silver_Merah.png" group-title="TV INDONESIA", Garuda TV
 https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 
-#EXTINF:-1 tvg-id="cnn indonesia" tvg-logo="https://i.ibb.co.com/DwKWjKs/cnn.png" group-title="Indonesia", CNN INDONESIA
+#EXTINF:-1 tvg-id="cnn indonesia" tvg-logo="https://i.ibb.co.com/DwKWjKs/cnn.png" group-title="TV INDONESIA", CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/6NKJkPK/cnbc.png" group-title="Indonesia", CNBC INDONESIA
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/6NKJkPK/cnbc.png" group-title="TV INDONESIA", CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" tvg-logo="https://i.ibb.co.com/HXrk8wY/btv.png" group-title="Indonesia", BTV
+#EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" tvg-logo="https://i.ibb.co.com/HXrk8wY/btv.png" group-title="TV INDONESIA", BTV
 https://dsgtq5sngxkde.cloudfront.net/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
-#EXTINF:-1 tvg-id="Rajawali TV" tvg-logo="https://i.ibb.co.com/8jxKzZn/Rtv.png" group-title="Indonesia", RTV
+#EXTINF:-1 tvg-id="Rajawali TV" tvg-logo="https://i.ibb.co.com/8jxKzZn/Rtv.png" group-title="TV INDONESIA", RTV
 https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
-#EXTINF:-1 tvg-id="Nusantara TV" tvg-logo="https://i.ibb.co.com/NpswrMT/nusantara.png" group-title="Indonesia", NUSANTARA TV
+#EXTINF:-1 tvg-id="Nusantara TV" tvg-logo="https://i.ibb.co.com/NpswrMT/nusantara.png" group-title="TV INDONESIA", NUSANTARA TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="IDX HD - [Channel 436].id" tvg-logo="https://i.ibb.co.com/P4dM5Ms/idx.png" group-title="Indonesia", IDX
+#EXTINF:-1 tvg-id="IDX HD - [Channel 436].id" tvg-logo="https://i.ibb.co.com/P4dM5Ms/idx.png" group-title="TV INDONESIA", IDX
 https://dsgtq5sngxkde.cloudfront.net/live/eds/IDX/sa_dash_vmx/IDX.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/RCWmkKc/MGN.png" group-title="Indonesia", METRO GLOBAL NETWORK
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/RCWmkKc/MGN.png" group-title="TV INDONESIA", METRO GLOBAL NETWORK
 https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w139395680_b2692000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="beritasatu" tvg-logo="noimage.png" group-title="Indonesia", BERITASATU
+#EXTINF:-1 tvg-id="beritasatu" tvg-logo="noimage.png" group-title="TV INDONESIA", BERITASATU
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
-#EXTINF:-1 tvg-id="Indonesiana TV" tvg-logo="https://i.ibb.co.com/QvPY518/indonesiana.png" group-title="Indonesia", INDONESIANA TV
+#EXTINF:-1 tvg-id="Indonesiana TV" tvg-logo="https://i.ibb.co.com/QvPY518/indonesiana.png" group-title="TV INDONESIA", INDONESIANA TV
 https://tvstreamcast.com/indonesiana.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/0XzMwt4/tvkesehatan.png" group-title="Indonesia", TV KESEHATAN
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/0XzMwt4/tvkesehatan.png" group-title="TV INDONESIA", TV KESEHATAN
 https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="TVRI - [Channel 118].id" tvg-logo="https://i.ibb.co.com/LQsZTgm/TVRI-2.png" group-title="Indonesia", TVRI NASIONAL
+#EXTINF:-1 tvg-id="TVRI - [Channel 118].id" tvg-logo="https://i.ibb.co.com/LQsZTgm/TVRI-2.png" group-title="TV INDONESIA", TVRI NASIONAL
 https://dsgtq5sngxkde.cloudfront.net/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/pJSCZrc/TVRI.png" group-title="Indonesia", TVRI WORLD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/pJSCZrc/TVRI.png" group-title="TV INDONESIA", TVRI WORLD
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_900000=10002-mp4a_96000_eng=20003.m3u8
 
-#EXTINF:-1 tvg-id="ugtv" tvg-logo="https://i.ibb.co.com/1JtQVKc/UGTV.png" group-title="Indonesia", UGTV
+#EXTINF:-1 tvg-id="ugtv" tvg-logo="https://i.ibb.co.com/1JtQVKc/UGTV.png" group-title="TV INDONESIA", UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
-#EXTINF:-1 tvg-id="ktv" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/21/KTV_28UHF.png" group-title="Indonesia", KTV
+#EXTINF:-1 tvg-id="ktv" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/21/KTV_28UHF.png" group-title="TV INDONESIA", KTV
 https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/Ktivi.m3u8
 
-#EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-logo="https://i.ibb.co.com/rFb8pJr/RCTI.png" group-title="Indonesia", RCTI HD
+#EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-logo="https://i.ibb.co.com/rFb8pJr/RCTI.png" group-title="TV INDONESIA", RCTI HD
 =======================================
 
 #EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png" group-title="INDONESIA HD", GTV HD
