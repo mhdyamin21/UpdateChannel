@@ -1020,6 +1020,147 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u
 #EXTINF:-1 tvg-id="KPlus.sg" tvg-logo="https://i.imgur.com/RbS0q71.png" group-title="TV Movies",K+ (Indonesian subtitle) (576p)
 http://210.210.155.37/uq2663/h/h08/index.m3u8
 
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.ibb.co.com/LgqX1qJ/hbo.png" group-title="TV Movies", HBO (OS7+)
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd|referrer=https://www.cubmu.com/
+
+#EXTINF:-1 tvg-id="hbohitsasia.sg" tvg-logo="https://i.ibb.co.com/L9myfz5/hbohits.png" group-title="TV Movies", HBO Hits (OS7+)
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd|referrer=https://www.cubmu.com/
+
+#EXTINF:-1 tvg-id="hbofamilyasia.sg" tvg-logo="https://i.ibb.co.com/dLR3Sqq/hbofamily.png" group-title="TV Movies", HBO Family (OS7+)
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd|https://www.cubmu.com/
+
+#EXTINF:-1 tvg-id="hbosignatureasia.sg" tvg-logo="https://i.ibb.co.com/nLwxYL5/hbosignatur.png" group-title="TV Movies", HBO Signature (OS7+)
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd|referrer=https://www.cubmu.com/
+
+#EXTINF:-1 tvg-id="cinemaxasia.sg" tvg-logo="https://i.ibb.co.com/0chM7YL/cinemax.png" group-title="TV Movies", CINEMAX (OS7+)
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd|referrer=https://www.cubmu.com/
+
+#EXTINF:-1 tvg-id="HBO HD.sg" tvg-logo="https://i.ibb.co.com/LgqX1qJ/hbo.png" group-title="TV Movies", HBO
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/210.m3u8
+
+#EXTINF:-1 tvg-id="HBO Hits (HD).sg" tvg-logo="https://i.ibb.co.com/L9myfz5/hbohits.png" group-title="TV Movies", HBO Hits
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/591.m3u8
+
+#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-logo="https://i.ibb.co.com/dLR3Sqq/hbofamily.png" group-title="TV Movies", HBO Family
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/592.m3u8
+
+#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-logo="https://i.ibb.co.com/nLwxYL5/hbosignatur.png" group-title="TV Movies", HBO Signature
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/873.m3u8
+
+#EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-logo="https://i.ibb.co.com/0chM7YL/cinemax.png" group-title="TV Movies", Cinemax
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/FXm0jc5.png" group-title="TV Movies", FLIK (INDIHOME)
+https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
+
+#EXTINF:-1 tvg-id="Celestial Movies - [Channel 20].id" tvg-logo="https://i.ibb.co.com/xChWWg1/celestialmovies.png" group-title="TV Movies", Celestial Movies
+https://cempedak-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+
+#EXTINF:-1 tvg-id="CCM - [Channel 22].id" tvg-logo="https://i.ibb.co.com/S0BMmpm/ccm.png" group-title="TV Movies", Celestial Classic
+https://cempedak-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/xgBwP9Z/galaxy.png" group-title="TV Movies", GALAXY
+https://d1abp075u76pbq.cloudfront.net/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/K6jTh7b/galaxy-premium.png" group-title="TV Movies", GALAXY PREMIUM
+https://d1abp075u76pbq.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-id="K-Plus" tvg-logo="https://www.pngkey.com/png/full/306-3060351_k-plus-k-plus-channel-logo.png" group-title="TV Movies", K+
+http://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8
+
+#EXTINF:-1 tvg-id="tvN Movies HD - [Channel 415].id" tvg-logo="https://i.ibb.co.com/1YW5Dym/Tvnmovies.png" group-title="TV Movies", TvN movies HD
+https://cempedak-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
+#EXTINF:-1 tvg-id="SONE" tvg-logo="https://i.ibb.co.com/DbmRvf4/One.png" group-title="TV Movies", ONE
+https://cempedak-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+
+#EXTINF:-1 tvg-id="HITS - [Saluran 160].id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/HITS_TV_ASIA.png" group-title="TV Movies", HITS
+https://dsgtq5sngxkde.cloudfront.net/live/eds/HITS/sa_dash_vmx/HITS.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/fdrn9mq/hits-movies.png" group-title="TV Movies", HITS MOVIES
+https://d1abp075u76pbq.cloudfront.net/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/YQg4jR7/kix.png" group-title="TV Movies", KIX
+https://d1abp075u76pbq.cloudfront.net/live/eds/KIX/sa_dash_vmx/KIX.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/jD2yKv2/thrill.png" group-title="TV Movies", THRILL
+https://d1abp075u76pbq.cloudfront.net/live/eds/Thrill/sa_dash_vmx/Thrill.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/t2LL0r5/mycinema.png" group-title="TV Movies", MY CINEMA
+
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/t2LL0r5/mycinema.png" group-title="TV Movies", MY CINEMA
+http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/nmGP0g8/mycinemaasia.png" group-title="TV Movies", MY CINEMA ASIA
+
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/nmGP0g8/mycinemaasia.png" group-title="TV Movies", MY CINEMA ASIA
+http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Asia|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/CtvwxDC/myfamily.png" group-title="TV Movies", MY FAMILY
+http://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/DRcyjX0/cinemaci.png" group-title="TV Movies", CINEMACHI
+https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/Vjy4sKh/cinemachi-kids.png" group-title="TV Movies", CINEMACHI KIDS
+https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/6YyfQ2f/cinemachi-action.png" group-title="TV Movies", CINEMACHI ACTION
+https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/JRZNVHK/cinemachi-max.png" group-title="TV Movies", CINEMACHI MAX
+https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/stz1HbQ/cinemachi-xtra.png" group-title="TV Movies", CINEMACHI XTRA
+https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/JCHCg2g/imc.png" group-title="TV Movies", IMC
+https://d1abp075u76pbq.cloudfront.net/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/gFnV1jG/zee-bioskop.png" group-title="TV Movies", ZEE BIOSKOP
+https://d1abp075u76pbq.cloudfront.net/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/MBvq9ct/rockaction.png" group-title="TV Movies", ROCK ACTION
+https://d1abp075u76pbq.cloudfront.net/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Movies", Citra Bioskop
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
+
+#EXTINF:-1 tvg-id="idh" tvg-logo="https://id.m.wikipedia.org/wiki/MAXstream#/media/Berkas%3ALogo_MAX_horizontal_on_white_.jpg" group-title="TV Movies", MAXTREAM (INDIHOME)
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png" group-title="TV Movies", Bioskop Indonesia (INDIHOME)
+https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Movies", Cinema World (INDIHOME)
+https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Chinese_Drama_TV.png" group-title="TV Movies", Chinese Drama (INDIHOME)
+https://cdn08jtedge.indihometv.com/dassdvr/130/chinesedrama/manifest.mpd
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Movies", Studio Universal (INDIHOME)
+https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DuniaSinema.png" group-title="TV Movies", Dunia Sinema
+https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
+
+#EXTINF:-1 tvg-id="etv1" tvg-logo="noimage.png" group-title="TV Movies", ETV BIOSKOP 01
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298526
+
+#EXTINF:-1 tvg-id="etv2" tvg-logo="noimage.png" group-title="TV Movies", ETV BIOSKOP 02
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298513
+
+#EXTINF:-1 tvg-id="etv3" tvg-logo="noimage.png" group-title="TV Movies", ETV BIOSKOP 03
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298514
+
+#EXTINF:-1 tvg-id="etv4" tvg-logo="noimage.png" group-title="TV Movies", ETV BIOSKOP 04
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298529
+
+
+
+
 
 # --- TV Lokal ---
 
@@ -1837,143 +1978,7 @@ https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iptv.urfan.web.id/logo/dtvi.png" group-title="DAERAH", dTVi
 https://e.siar.us/live/dtvi.m3u8
 
-#EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.ibb.co.com/LgqX1qJ/hbo.png" group-title="MOVIES", HBO (OS7+)
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd|referrer=https://www.cubmu.com/
 
-#EXTINF:-1 tvg-id="hbohitsasia.sg" tvg-logo="https://i.ibb.co.com/L9myfz5/hbohits.png" group-title="MOVIES", HBO Hits (OS7+)
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd|referrer=https://www.cubmu.com/
-
-#EXTINF:-1 tvg-id="hbofamilyasia.sg" tvg-logo="https://i.ibb.co.com/dLR3Sqq/hbofamily.png" group-title="MOVIES", HBO Family (OS7+)
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd|https://www.cubmu.com/
-
-#EXTINF:-1 tvg-id="hbosignatureasia.sg" tvg-logo="https://i.ibb.co.com/nLwxYL5/hbosignatur.png" group-title="MOVIES", HBO Signature (OS7+)
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd|referrer=https://www.cubmu.com/
-
-#EXTINF:-1 tvg-id="cinemaxasia.sg" tvg-logo="https://i.ibb.co.com/0chM7YL/cinemax.png" group-title="MOVIES", CINEMAX (OS7+)
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd|referrer=https://www.cubmu.com/
-
-#EXTINF:-1 tvg-id="HBO HD.sg" tvg-logo="https://i.ibb.co.com/LgqX1qJ/hbo.png" group-title="MOVIES", HBO
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/210.m3u8
-
-#EXTINF:-1 tvg-id="HBO Hits (HD).sg" tvg-logo="https://i.ibb.co.com/L9myfz5/hbohits.png" group-title="MOVIES", HBO Hits
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/591.m3u8
-
-#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-logo="https://i.ibb.co.com/dLR3Sqq/hbofamily.png" group-title="MOVIES", HBO Family
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/592.m3u8
-
-#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-logo="https://i.ibb.co.com/nLwxYL5/hbosignatur.png" group-title="MOVIES", HBO Signature
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/873.m3u8
-
-#EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-logo="https://i.ibb.co.com/0chM7YL/cinemax.png" group-title="MOVIES", Cinemax
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/FXm0jc5.png" group-title="MOVIES", FLIK (INDIHOME)
-https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
-
-#EXTINF:-1 tvg-id="Celestial Movies - [Channel 20].id" tvg-logo="https://i.ibb.co.com/xChWWg1/celestialmovies.png" group-title="MOVIES", Celestial Movies
-https://cempedak-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
-
-#EXTINF:-1 tvg-id="CCM - [Channel 22].id" tvg-logo="https://i.ibb.co.com/S0BMmpm/ccm.png" group-title="MOVIES", Celestial Classic
-https://cempedak-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/xgBwP9Z/galaxy.png" group-title="MOVIES", GALAXY
-https://d1abp075u76pbq.cloudfront.net/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd|Referer=https://www.visionplus.id/
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/K6jTh7b/galaxy-premium.png" group-title="MOVIES", GALAXY PREMIUM
-https://d1abp075u76pbq.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd|Referer=https://www.visionplus.id/
-
-#EXTINF:-1 tvg-id="K-Plus" tvg-logo="https://www.pngkey.com/png/full/306-3060351_k-plus-k-plus-channel-logo.png" group-title="MOVIES", K+
-http://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8
-
-#EXTINF:-1 tvg-id="tvN Movies HD - [Channel 415].id" tvg-logo="https://i.ibb.co.com/1YW5Dym/Tvnmovies.png" group-title="MOVIES", TvN movies HD
-https://cempedak-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
-
-#EXTINF:-1 tvg-id="SONE" tvg-logo="https://i.ibb.co.com/DbmRvf4/One.png" group-title="MOVIES", ONE
-https://cempedak-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
-
-#EXTINF:-1 tvg-id="HITS - [Saluran 160].id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/HITS_TV_ASIA.png" group-title="MOVIES", HITS
-https://dsgtq5sngxkde.cloudfront.net/live/eds/HITS/sa_dash_vmx/HITS.mpd|Referer=https://www.visionplus.id/&user-agent=Android
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/fdrn9mq/hits-movies.png" group-title="MOVIES", HITS MOVIES
-https://d1abp075u76pbq.cloudfront.net/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd|Referer=https://www.visionplus.id/
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/YQg4jR7/kix.png" group-title="MOVIES", KIX
-https://d1abp075u76pbq.cloudfront.net/live/eds/KIX/sa_dash_vmx/KIX.mpd|Referer=https://www.visionplus.id/
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/jD2yKv2/thrill.png" group-title="MOVIES", THRILL
-https://d1abp075u76pbq.cloudfront.net/live/eds/Thrill/sa_dash_vmx/Thrill.mpd|Referer=https://www.visionplus.id/
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/t2LL0r5/mycinema.png" group-title="MOVIES", MY CINEMA
-
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/t2LL0r5/mycinema.png" group-title="MOVIES", MY CINEMA
-http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/nmGP0g8/mycinemaasia.png" group-title="MOVIES", MY CINEMA ASIA
-
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/nmGP0g8/mycinemaasia.png" group-title="MOVIES", MY CINEMA ASIA
-http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Asia|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/CtvwxDC/myfamily.png" group-title="MOVIES", MY FAMILY
-http://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/DRcyjX0/cinemaci.png" group-title="MOVIES", CINEMACHI
-https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd|Referer=https://www.visionplus.id/
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/Vjy4sKh/cinemachi-kids.png" group-title="MOVIES", CINEMACHI KIDS
-https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd|Referer=https://www.visionplus.id/
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/6YyfQ2f/cinemachi-action.png" group-title="MOVIES", CINEMACHI ACTION
-https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd|Referer=https://www.visionplus.id/
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/JRZNVHK/cinemachi-max.png" group-title="MOVIES", CINEMACHI MAX
-https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd|Referer=https://www.visionplus.id/
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/stz1HbQ/cinemachi-xtra.png" group-title="MOVIES", CINEMACHI XTRA
-https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd|Referer=https://www.visionplus.id/
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/JCHCg2g/imc.png" group-title="MOVIES", IMC
-https://d1abp075u76pbq.cloudfront.net/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd|Referer=https://www.visionplus.id/
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/gFnV1jG/zee-bioskop.png" group-title="MOVIES", ZEE BIOSKOP
-https://d1abp075u76pbq.cloudfront.net/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd|Referer=https://www.visionplus.id/
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co.com/MBvq9ct/rockaction.png" group-title="MOVIES", ROCK ACTION
-https://d1abp075u76pbq.cloudfront.net/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd|Referer=https://www.visionplus.id/
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MOVIES", Citra Bioskop
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
-
-#EXTINF:-1 tvg-id="idh" tvg-logo="https://id.m.wikipedia.org/wiki/MAXstream#/media/Berkas%3ALogo_MAX_horizontal_on_white_.jpg" group-title="MOVIES", MAXTREAM (INDIHOME)
-https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png" group-title="MOVIES", Bioskop Indonesia (INDIHOME)
-https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MOVIES", Cinema World (INDIHOME)
-https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Chinese_Drama_TV.png" group-title="MOVIES", Chinese Drama (INDIHOME)
-https://cdn08jtedge.indihometv.com/dassdvr/130/chinesedrama/manifest.mpd
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MOVIES", Studio Universal (INDIHOME)
-https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DuniaSinema.png" group-title="MOVIES", Dunia Sinema
-https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
-
-#EXTINF:-1 tvg-id="etv1" tvg-logo="noimage.png" group-title="MOVIES", ETV BIOSKOP 01
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298526
-
-#EXTINF:-1 tvg-id="etv2" tvg-logo="noimage.png" group-title="MOVIES", ETV BIOSKOP 02
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298513
-
-#EXTINF:-1 tvg-id="etv3" tvg-logo="noimage.png" group-title="MOVIES", ETV BIOSKOP 03
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298514
-
-#EXTINF:-1 tvg-id="etv4" tvg-logo="noimage.png" group-title="MOVIES", ETV BIOSKOP 04
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298529
 
 #EXTINF:-1 tvg-id="MentariTV.id" tvg-logo="https://i.ibb.co.com/8XRWRcH/mentari.png" group-title="KIDS", MENTARI TV HD
 https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/mentari.m3u8
